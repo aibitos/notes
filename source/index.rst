@@ -10,7 +10,7 @@ Welcome to Infinity's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+math/index
 
 Indices and tables
 ==================
