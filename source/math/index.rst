@@ -8,5 +8,5 @@
 硬件的核心是芯片，而软件的核心就是算法，而算法的核心又是什么呢，那就是数学
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:

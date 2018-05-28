@@ -7,10 +7,10 @@ Welcome to Infinity's documentation!
 ====================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
-math/index
+   math/index
 
 Indices and tables
 ==================
