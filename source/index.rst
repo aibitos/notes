@@ -11,6 +11,7 @@ Welcome to Infinity's documentation!
    :caption: Contents:
 
    math/index
+   conf/index
 
 Indices and tables
 ==================
