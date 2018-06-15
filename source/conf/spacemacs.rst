@@ -10,3 +10,16 @@
 .. code:: bash
 
   brew cask install emacs
+
+下载最新的 ``spacemacs``
+
+.. code:: bash
+
+  git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
+
+配置 ``.spacemacs``, 修改如下：
+
+.. code:: lisp
+
+  ;; 使用 http 来下载
+  dotspacemacs-elpa-https nil
